@@ -9,4 +9,5 @@
 | 2021.11.10 | chapter01 - let 변수, const 변수 / 15장  let, const 키워드와 블록 레벨 스코프 |
 | 2023.08.19 | chapter02 - Arrow Function                                    |
 | 2023.08.20 | chapter03 - Iteration                                         |
+| 2023.08.20 | chpater04 - Spread, Rest                                      |
 
