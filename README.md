@@ -10,4 +10,9 @@
 | 2023.08.19 | chapter02 - Arrow Function                                    |
 | 2023.08.20 | chapter03 - Iteration                                         |
 | 2023.08.20 | chpater04 - Spread, Rest                                      |
+| 2023.08.27 | chapter05 - Destructuring, Array 분할 할당                        |
+| 2023.08.27 | chapter06 - default value                                     |
+| 2023.08.27 | chapter06 - for-of 문                                          |
+
+
 
